@@ -65,4 +65,5 @@ This project is a **safe, controlled environment** to study adversarial behavior
 
 ### Review — 1 — Status: **R&D (Completed)**
 A structured **R&D README** (methodology, protocols, and metrics) is prepared for this project.  
+I have also mentioned the sources from which the idea for this project was derived..
 
