@@ -1,0 +1,6 @@
+node_modules
+target/backend/env
+target/backend/.env
+target/backend/venv
+target/frontend/node_modules
+target/frontend/.env

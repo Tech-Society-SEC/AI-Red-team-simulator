@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+requests
+pandas
+google-genai
+python-multipart
+PyJWT
+reportlab
